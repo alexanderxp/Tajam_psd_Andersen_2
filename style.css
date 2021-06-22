@@ -223,3 +223,31 @@ body {
   transition: 0.2s ease-in;
 }
 
+/* ======= Video ======== */
+.video {
+  height: 550px;
+  background: url('img/bg-video.png') no-repeat center center;
+  background-size: cover;
+}
+
+.video-icon {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 253px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.video-play-label {
+  margin-left: 50%;
+  margin-top: 343px;
+  transform: translateX(-50%) translateY(-50%);
+  position: absolute;
+}
+
+.video-text {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
