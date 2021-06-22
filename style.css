@@ -78,4 +78,36 @@ body {
 
     background-repeat: no-repeat;
     background-position: center;          
-}                    
+}    
+
+.label h1 {
+  margin-left: 50%;
+  margin-top: 240px;
+  transform: translateX(-50%) translateY(-50%);
+  position: absolute;
+  color: #fff;
+  font-family: 'Playfair Display', serif;
+  font-size: 32px;
+}
+
+.main-line {
+  height: 1px;
+  position: absolute;
+  width: 50px;
+  background-color: #00e0d0;
+  margin-left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  margin-top: 283px;
+}
+
+.label p {
+  margin-left: 50%;
+  margin-top: 335px;
+  transform: translateX(-50%) translateY(-50%);
+  position: absolute;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: center;
+}
