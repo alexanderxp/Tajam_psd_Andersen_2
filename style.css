@@ -26,12 +26,13 @@ body {
 	position: absolute;          
 	left: 0;                   
 	top: 0;                     
-        width: 100%;          
+  width: 100%;          
 	height: 100%;               
 	z-index: 1000;    
   height: 960px;
   background-image: url("img/intro-back.png");
-  background-size: cover;          
+  background-size: cover;  
+  background-attachment: fixed;        
 }    
 
 .header__inner {
