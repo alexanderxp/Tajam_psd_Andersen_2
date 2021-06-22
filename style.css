@@ -16,9 +16,13 @@ body {
 
 .container {                                           
 	width: 100%;
-	max-width: 1600px;
-	margin: 0 auto;
 }  
+
+.content {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
 
 /* ============== Header ============= */          
 
