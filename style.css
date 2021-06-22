@@ -69,7 +69,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	height: 750px;
+	height: 670px;
 	padding-top: 100px;
   background-image: url("img/intro-back.png");
   background-size: cover;
@@ -86,7 +86,7 @@ body {
 }                            
 
 .intro__title {
-	margin: 0 0 20px 0;
+	margin: 50px 0 20px 0;
   font-family: 'Playfair Display', serif;
   font-size: 32px;
 	line-height: 1.1 ;    
@@ -113,4 +113,35 @@ body {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-size: 14px; 
+}
+
+/* ============== Button ============= */ 
+.btn {
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px;
+  border-radius: 2.5px;
+  border: 1.3px solid #00e0d0;
+  cursor: pointer;
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 13px;
+  color: #00e0d0;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  transition: background .2s linear;
+}
+
+.btn:hover {
+  background-color: #00e0d0;
+  color: #fff;
+  transition: 0.2s ease-in;
+}
+
+.dots {
+  margin-top: 120px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
 }
