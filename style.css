@@ -3,7 +3,7 @@ body {
 	font-family: 'Raleway', sans-serif;             
 	font-size: 14px;                                 
 	color: #6c7279;
-	background-color: #000;      
+	background-color: #fff;      
 }
 
 *,
@@ -81,7 +81,7 @@ body {
 
 .label h1 {
   margin-left: 50%;
-  margin-top: 240px;
+  margin-top: 140px;
   transform: translateX(-50%) translateY(-50%);
   position: absolute;
   color: #fff;
@@ -96,24 +96,24 @@ body {
   background-color: #00e0d0;
   margin-left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  margin-top: 283px;
+  margin-top: 183px;
 }
 
 .label p {
   margin-left: 50%;
-  margin-top: 335px;
+  margin-top: 235px;
   transform: translateX(-50%) translateY(-50%);
   position: absolute;
   color: #fff;
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 150;
   font-size: 14px;
   text-align: center;
 }
 
 .btn {
   margin-left: 50%;
-  margin-top: 470px;
+  margin-top: 350px;
   transform: translateX(-50%) translateY(-50%);
   position: absolute;
   border: 1.3px solid #00e0d0;
@@ -136,7 +136,7 @@ body {
 .dots {
   position: absolute;
   margin-left: 50%;
-  margin-top: 620px;
+  margin-top: 480px;
   transform: translateX(-50%) translateY(-50%);
 }
 
