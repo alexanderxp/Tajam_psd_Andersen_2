@@ -35,6 +35,11 @@ body {
   background-attachment: fixed;        
 }    
 
+/*.header__logo {
+  margin-top: 25px;
+  margin-left: 400px;
+}                             */
+
 .header__inner {
 	display: flex;
 	justify-content: space-between;
@@ -65,6 +70,7 @@ body {
 .nav__link:hover {
 	text-decoration: underline;
 	opacity: 1;
+  color: #00e0d0;
 }
 
 /* ============== Intro ============= */   
