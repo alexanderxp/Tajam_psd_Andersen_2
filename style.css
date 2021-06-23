@@ -380,3 +380,29 @@ margin-bottom: 20px;
   margin-bottom: 16px;
 }
 
+.team-title {
+  margin: 0;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.team-text {
+  font-size: 13px;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
+.team-invite {
+  text-align: center;
+}
+
+.team-join {
+  font-size: 14px;
+  font-weight: 300;
+  margin: 0;
+  margin-bottom: 26px;
+  color: #fff;
+}
