@@ -530,3 +530,37 @@ margin-bottom: 20px;
   font-weight: 400;
 }
 
+.comments__title {
+  position: absolute;
+  transform: translateX(-50%) translateY(-50%);
+  margin-left: 50%;
+  margin-top: 172px;
+}
+
+.comments__title h2 {
+  color: #fff;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+
+.comments__txt {
+  position: absolute;
+  transform: translateX(-50%) translateY(-50%);
+  margin-left: 50%;
+  margin-top: 192px;
+}
+
+.comments__txt p {
+  font-size: 13px;
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  color: #adabb6;
+}
+
+.pict {
+  margin-top: 276px;
+  position: absolute; 
+  transform: translateX(-50%) translateY(-50%);
+  margin-left: 50%;
+}
