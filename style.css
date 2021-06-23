@@ -502,3 +502,31 @@ margin-bottom: 20px;
   transition: 0.2s ease-in;
 }
 
+/* ============== Comments ============= */  
+.comments {
+  height: 500px;
+  background: url('img/bg-ps.png') no-repeat center center;
+  background-size: cover;
+}
+
+.comments img {
+  margin-top: 90px;
+  margin-left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.comments-text {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 60px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.comments-text p {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
