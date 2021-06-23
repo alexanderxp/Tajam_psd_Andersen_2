@@ -255,3 +255,38 @@ body {
   font-weight: 900;
 }
 
+/* ============== Expertise ============= */  
+.expertise {
+  display: flex;
+  margin: 100px 0;
+  flex-wrap: wrap;
+}
+
+.expertise__item {                          
+width: 33.33333%;   
+text-align: center;        
+padding: 50px 40px;     
+margin: -10px 0;
+border-top: none;
+border-bottom: none;
+border-left: 1px solid #ebebeb;
+border-right: 1px solid #ebebeb;
+}   
+
+.expertise__icon {              
+margin-bottom: 20px;     
+}                      
+
+.expertise__title {          
+  margin-bottom: 15px;  
+  font-size: 14px;          
+  color: #2d3033;              
+  font-weight: 700;            
+  text-transform: uppercase;   
+}              
+
+.expertise__text {               
+  font-size: 14px;           
+  line-height: 1.5;           
+  color: #6c7279;          
+}        
