@@ -731,3 +731,39 @@ footer{
 }
 */
 
+.logo {
+  justify-content: center;
+}
+
+.address-item {
+  justify-content: center;
+}
+
+.copyright {
+  float: unset;
+  text-align: center;
+}
+
+.social-item {
+  margin-right: 5px;
+}
+
+.social-item{
+  flex-basis: 33%;
+  margin: 0;
+}
+
+.social-item:last-child{
+  margin-right: 0;
+}
+
+.social-input {
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.socilal-links {
+  justify-content: center;
+}
+
