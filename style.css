@@ -430,3 +430,47 @@ margin-bottom: 20px;
   transition: 0.2s ease-in;
 }
 
+/* ============== Works ============= */  
+.works {
+  color: #413d4b;
+}
+
+.works-about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.works-link {
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: none;
+  letter-spacing: 0.6px;
+  background-repeat: no-repeat;
+  background-position: center right;
+  padding-right: 20px;
+  color: #413d4b;
+}
+
+.works-btn {
+  text-align: center;
+}
+
+.works-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.works-item {
+  min-width: 16.66666666666667%; 
+  flex-grow: 1;
+  flex-basis: 0;
+  width: 100%;
+  height: auto;
+  max-width: 270px;
+  
+}
+
