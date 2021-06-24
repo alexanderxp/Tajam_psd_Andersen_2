@@ -916,6 +916,11 @@ footer{
   letter-spacing: 0.6px;
 }
 
+.subscribe-input:hover {
+  border-color: #36b3cd;
+}
+
+
 .subscribe-btn {
   border: none;
   background: none;
