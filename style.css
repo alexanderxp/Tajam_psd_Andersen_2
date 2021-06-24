@@ -827,6 +827,13 @@ footer{
   justify-content: center;
 }
 
+.logo-text {
+  margin-left: 11px;
+  font-size: 30px;
+  color: #36b3cd;
+  font-weight: 100;
+}
+
 .address-item {
   justify-content: center;
 }
