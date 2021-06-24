@@ -930,3 +930,8 @@ footer{
   height: 45px;
   width: 70px;
 }
+
+.subscribe-btn:hover {
+  cursor: pointer;
+}
+
