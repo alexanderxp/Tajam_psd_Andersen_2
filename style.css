@@ -806,11 +806,31 @@ footer{
   font-weight: 800;
   letter-spacing: 0.7px;
   margin-bottom: 25px;
+  color: #fff;
 }
 
 .social-input {
   display: flex;
   justify-items: center;
+}
+
+.address-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 13px;
+}
+
+.address-img {
+  margin-right: 15px;
+}
+
+.address-text {
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 400;
+  word-spacing: 1px;
+  margin: 0;
+  color: #fff;
 }
 
 .footer-links {
