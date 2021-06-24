@@ -833,6 +833,16 @@ footer{
   color: #fff;
 }
 
+.phone-text {
+  text-decoration: none;
+  color: #eaeaec;
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 400;
+  word-spacing: 0.7px;
+  margin: 0;
+}
+
 .footer-links {
   float: unset;
   text-align: center;
@@ -862,10 +872,6 @@ footer{
   margin: 0;
   margin-top: 20px;
   color: #fff;
-}
-
-.address-item {
-  justify-content: center;
 }
 
 .copyright {
