@@ -697,6 +697,10 @@ margin-bottom: 20px;
   margin-bottom: 21px;
 }
 
+.contact-input:hover {
+  border-color: #00e0d0;
+}
+
 .contact-message {
   padding-bottom: 165px;
 }
